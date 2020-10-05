@@ -150,3 +150,7 @@ edit `/env/Lib/site-packages/tornado/platform/asyncio.py` following the instruct
 * The developers of Altair sometimes release a new version via pip and update the documentation before it is stable.
     Note that the documentation version and altair version you are using may be out of sync.
     In this assignment, using the `requirements.txt` file we are asking you to install a particular version to avoid some issues like this.
+
+# Assignment Setup (For Instructors Only)
+
+See https://github.com/NEU-DS-4200-F20-Staff/Assignment_Setup_Instructions.
