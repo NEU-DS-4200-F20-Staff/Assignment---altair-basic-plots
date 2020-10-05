@@ -1,0 +1,7 @@
+altair==4.1.0
+vega_datasets
+altair-data-server==0.4.1
+jupyterlab==2.2.8
+numpy==1.19.2
+pandas==1.1.2
+scipy==1.5.2
