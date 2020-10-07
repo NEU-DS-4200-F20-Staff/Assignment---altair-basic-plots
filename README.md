@@ -2,7 +2,7 @@
 ​
 This repository is your starting point for the assignment and includes the instructions below.
 
-# Aim of the Assignment
+# Aim of the assignment
 
 [Altair](https://altair-viz.github.io/) is a declarative statistical visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](http://vega.github.io/vega-lite). In this assignment, you are going to learn to create two basic visualizations using Altair.
 
@@ -30,7 +30,7 @@ This repository is your starting point for the assignment and includes the instr
     ```
     This may take a few minutes.
 
-## Run Jupyter Lab and Create a Notebook
+## Run Jupyter Lab and create a notebook
 
 1. Run `jupyter lab`. It should open your default browser and let you select select any Jupyter Notebook .ipynb file.
 1. Create a new Jupyter Notebook .ipynb file and give it a descriptive title.
