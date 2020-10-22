@@ -8,7 +8,7 @@ Unlike the D3 assignments, we will not be using GitHub pages so there is no link
 
 [Altair](https://altair-viz.github.io/) is a declarative statistical visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](http://vega.github.io/vega-lite). In this assignment, you are going to learn to create two basic visualizations using Altair.
 
-If you run into problems see the **Tips and tricks, including troubleshooting** section below.
+If you run into problems see the **Tips, tricks, and troubleshooting** section below.
 
 # Instructions
 
